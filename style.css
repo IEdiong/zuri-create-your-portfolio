@@ -161,10 +161,14 @@ hr {
     width: 480px;
 }
 
+.right {
+    border-top: 13px solid rgb(198, 243, 235);
+}
+
 .about,
 .experience {
     margin: 0 auto;
-    padding-top: 18px;
+    padding-top: 10px;
     padding-bottom: 20px;
     width: 420px;
 }
@@ -174,7 +178,7 @@ hr {
 }
 
 .experience {
-    margin-top: 14px;
+    margin-top: 15px;
 }
 
 .experience__sub-title {
